@@ -42,3 +42,5 @@ To use the table, we start with single identity attribute that we know, one or m
 Query the table to find a match for the known attribute in Attribute1 or Attribute2, filtering on date range and capture the associated attributes.  Then rank the results based on Source and Count, and take the best result(s).   If you don’t get any decent results, then you can use the other attributes discovered in the first query to conduct a second query to find a “one step removed” result.  Alternatively, you can expand the date range and try again.
 
 If you have more than one known attribute, them query for each on separately, and then take the intersection of the result sets.
+
+This is originally taken from (this Google doc)[https://docs.google.com/document/d/17zbJkQsaJrZduqFHPV1XWTHNLXaRGdO57dqornYO2h4/edit] written by Bjorn and Paul.
