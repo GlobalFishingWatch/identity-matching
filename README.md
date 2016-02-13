@@ -2,7 +2,7 @@
 Scripts and Queries to Identify Ships based on Registry Lists and Type 4 and 24 Messages
 
 
-Paul Recently (2/8/2016) outlined a way to identify vessels that we are implementing in this repository and on BigQuery
+Paul Recently (2/8/2016) outlined a way to identify vessels that we are implementing in this repository and on BigQuery. Below are Paul's notes (which we will edit as we update this repo). 
 
 ##Step 1: Create a single table with identity associations from multiple sources
 * CLAV List
