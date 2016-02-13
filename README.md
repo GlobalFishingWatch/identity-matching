@@ -43,4 +43,4 @@ Query the table to find a match for the known attribute in Attribute1 or Attribu
 
 If you have more than one known attribute, them query for each on separately, and then take the intersection of the result sets.
 
-This is originally taken from (this Google doc)[https://docs.google.com/document/d/17zbJkQsaJrZduqFHPV1XWTHNLXaRGdO57dqornYO2h4/edit] written by Bjorn and Paul.
+This is originally taken from [this Google doc](https://docs.google.com/document/d/17zbJkQsaJrZduqFHPV1XWTHNLXaRGdO57dqornYO2h4/edit) written by Bjorn and Paul.
