@@ -1,9 +1,10 @@
 
 '''
-The following script prints to the conosle a query that will query all type 5 and 24 messages from 
+The following script writes a query that will query all type 5 and 24 messages from 
 2012 to the end of 2015 to create the master table described in the readme of this repo.
+The query is printed to the file "type4_24_query.sql"
 
-Important steps here are how we normalize the names, and the order of the values in the table
+Important steps here are how we normalize the names, and the order of the values in the table.
 
 '''
 
@@ -33,11 +34,14 @@ def normalize(t):
 
 messages = ["mmsi","imo","shipname","callsign","shiptype_text"]
 
+f = open('type4_24_query.sql', 'w')
 
-print "SELECT Attribute1_Type,Attribute1_Value,Attribute2_Type,Attribute2_Value,Start_Date,End_Date,Count,Source FROM"
+f.write("SELECT Attribute1_Type,Attribute1_Value,Attribute2_Type,Attribute2_Value,Start_Date,End_Date,Count,Source FROM\n")
 
 for i in range(len(messages)):
 	for j in range(i+1, len(messages)):
-		print "("+ makequery(messages[i],messages[j]) +"),"
+		f.write( "("+ makequery(messages[i],messages[j]) +"),\n")
+
+f.close()
 
 
