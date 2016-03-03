@@ -1,0 +1,42 @@
+mmsi,geartype,valid_from,valid_to,shipname,flag,callsign,imo,tonnage,length,rfmo_id,rfmo_name,notes,CCAMLR_license_target_species_common_name,CCAMLR_licence_target_species ,CCAMLR_fishing_method
+503595000,Longlines (not specified),3/16/2012,6/24/2015,Antarctic Chieftain,Australia,VJT6415,9262833,1136,62.8,75746,CCAMLR,,Patagonian Toothfish,Dissostichus spp,Auto Longline (Mustad)
+503552000,Longlines (not specified); Other trawls (not specified),10/15/2014,7/11/2015,Atlas Cove,Australia,VHJT,9171008,1906,68.1,86361,CCAMLR,,Patagonian Toothfish; Mackerel icefish,Dissostichus eleginoides; Champsocephalus gunnari,Longline and trawl
+503556000,Longlines (not specified); Pots,3/8/2012,6/24/2015,Austral Leader II,Australia,VHLU,7382770,1045,59.8,75711,CCAMLR,broadcasts as Austral Leader 11,Patagonian Toothfish,Dissostichus eleginoides,Longline and pot
+503000087,Longlines (not specified),4/17/2015,6/24/2015,Corinthian Bay,Australia,VJN4779,9188960,1155,54.58,75753,CCAMLR,"previously Seljevaer, mmsi 257155000, new mmsi not in 40k list as of 7/12",Patagonian Toothfish,Dissostichus eleginoides,Longline
+508770000,Longlines (not specified),1/29/2013,7/3/2015,Isla Eden,Australia,VJN4147,9111694,1362,49.9,78941,CCAMLR,appears currently flagged to Mauritius,Patagonian Toothfish,Dissostichus eleginoides,Longline
+503057000,Other trawls (not specified),2/28/2012,1/1/2015,Southern Champion,Australia,VHGI,7351147,1696,87.19,75712,CCAMLR,no AIS broadcast in past 3 months,Patagonian Toothfish; Mackerel icefish,Dissostichus eleginoides; Champsocephalus gunnari,Trawl
+725004140,Longlines (not specified),1/2/2012,7/11/2015,Antarctic Bay,Chile,CB9738,9092240,985,51,75713,CCAMLR,,Patagonian Toothfish,Dissostichus eleginoides,Longline
+725000291,Other trawls (not specified),1/1/2012,7/11/2015,Betanzos,Chile,CBTZ,7310923,1438.7,72.05,75714,CCAMLR,,Krill; Mackerel Icefish,Euphausia superba; Champsocephalus gunnari,Trawl
+412217999,Midwater trawls (not specified),10/1/2012,7/11/2015,Fu Rong Hai,China,BAOC,7238113,5306,110,75732,CCAMLR,,Krill,Euphausia superba,Conventional pelagic trawl
+413222000,Midwater trawls (not specified),1/30/2012,7/11/2015,Kai Fu Hao,China,BIWY,8907022,7671,105,77361,CCAMLR,currently fishing for Chilean jack mackerel,Krill,Euphausia superba,Pelagic trawl
+413236000,Midwater trawls (not specified),1/1/2012,7/11/2015,Kai Li,China,BIWV,8607244,7847,120.7,75725,CCAMLR,currently fishing for Chilean jack mackerel,Krill,Euphausia superba,Conventional pelagic trawl
+413219000,Midwater trawls (not specified),1/1/2012,7/11/2015,Kai Shun,China,BIWZ,8607268,7847,120.7,79450,CCAMLR,"known to also target jack mackerel, currently in Bering Sea",Krill,Euphausia superba,Pelagic trawl
+412280982,Midwater trawls (not specified),11/23/2014,7/11/2015,Long Da,China,BZYC,8225412,3879,92.33,76176,CCAMLR,also seen in squid fishing grounds near Argentina,Krill,Euphausia superba,Conventional pelagic trawl
+412270002,Midwater trawls (not specified),1/4/2012,7/11/2015,Long Teng,China,BZZQ6,8607373,7765,120.7,77253,CCAMLR,"currently fishing for Chilean jack mackerel, not in current fishing list (7/12)",Krill,Euphausia superba,Pelagic trawl
+412331051,Midwater trawls (not specified),1/11/2014,7/11/2015,Ming Kai,China,BZYL9,8908117,7765,120.7,84024,CCAMLR,fishing at Argentine EEZ boundary,Krill,Euphausia superba,Pelagic trawl
+618000500,Longlines (not specified),1/1/2012,7/11/2015,Saint Andre,France,FNTD,9511181,1387,56.4,75730,CCAMLR,flagged to Crozet Archipeligo (French territory),Patagonian Toothfish,Dissostichus spp,Bottom autoline
+440755000,Longlines (not specified),1/11/2012,7/11/2015,Hong Jin 701,South Korea,6KSN,9012355,694,53.4,75737,CCAMLR,currently fishing on high seas near Argentina and Falklands,Patagonian Toothfish,Dissostichus spp,Bottom longline
+440203000,Longlines (not specified),5/16/2014,7/11/2015,Kingstar,South Korea,6KCD4,8916009,573,51.01,84031,CCAMLR,currently fishing on high seas near Argentina and Falklands,Patagonian Toothfish,Dissostichus spp,Bottom Longline
+441868000,Longlines (not specified),9/13/2012,7/11/2015,Kostar,South Korea,6KCB6,9202687,862,47.11,77073,CCAMLR,currently fishing on high seas near Argentina and Falklands,Patagonian Toothfish,Dissostichus spp,Bottom Longline
+440863000,Midwater trawls (not specified),1/3/2012,7/11/2015,Kwang Ja Ho,South Korea,DTBP9,8505977,3314,93.5,75742,CCAMLR,currently fishing for Chilean jack mackerel,Krill,Euphausia superba,Midwater trawl
+441699000,Other trawls (not specified),1/3/2012,7/11/2015,Sejong,South Korea,DTBX8,8607385,7765,110.22,75744,CCAMLR,name changes from Maestro to Sejong at some point,Krill,Euphausia superba,Trawl
+441864000,Longlines (not specified),8/28/2012,7/11/2015,Sunstar,South Korea,6KCB,8978071,628,51.91,76585,CCAMLR,,Patagonian Toothfish,Dissostichus spp,Bottom Longline
+512006000,Longlines (not specified),4/13/2015,7/11/2015,Janas,New Zealand,ZMTW,9057109,1079,46.5,75747,CCAMLR,AIS broadcast only recently as seen in ShipView,Patagonian Toothfish,Dissostichus spp,Bottom longline
+512008000,Longlines (not specified),3/4/2013,7/5/2015,San Aotea II,New Zealand,ZM2534,9057111,1079,46.5,75748,CCAMLR,,Patagonian Toothfish,Dissostichus spp,Demersal autoline
+512027000,Longlines (not specified),1/17/2012,7/12/2015,San Aspiring,New Zealand,ZMGO,9226528,1508,51.2,75749,CCAMLR,,Patagonian Toothfish,Dissostichus spp,Demersal longline
+258139000,Other trawls (not specified),1/9/2012,7/12/2015,Antarctic Sea,Norway,LAWR,9160358,9432,133.88,75750,CCAMLR,,Krill,Euphausia superba,Continuous trawling (Eco-Harvesting)
+258261000,Midwater trawls (not specified),1/6/2012,7/12/2015,Juvel,Norway,LAZH,9256664,5500,99.5,75751,CCAMLR,,Krill,Euphausia superba,Midwater trawl
+259539000,Other trawls (not specified),1/12/2012,7/12/2015,Saga Sea,Norway,LNSK,7390416,4861,92,75752,CCAMLR,,Krill,Euphausia superba,Continuous trawl (Eco-Harvesting)
+257155000,Longlines (not specified),1/13/2012,4/13/2015,Seljevaer,Norway,LKYA,9188960,1155,54.58,75753,CCAMLR,reflagged as Corinthian Bay,Patagonian Toothfish,Dissostichus spp,Bottom autoline
+273338570,Longlines (not specified),11/7/2013,7/12/2015,Mys Marii,Russia,UIBA,9009918,743,49.56,81552,CCAMLR,currently fishing off Kamchatka,Patagonian Toothfish,Dissostichus spp,Bottom longline
+273354130,Longlines (not specified),9/3/2012,7/9/2015,Palmer,Russia,UBJH2,9083005,1137.27,49.9,77360,CCAMLR,AIS gap 4/21/15 to 6/26/15,Patagonian Toothfish,Dissostichus spp,Bottom longline - automatic system
+273341320,Longlines (not specified),1/13/2012,7/12/2015,Yantar 31,Russia,UBWE5,8916803,788,49.6,75757,CCAMLR,currently near Kamchatka,Patagonian Toothfish,Dissostichus spp,Bottom longline
+273350850,Longlines (not specified),8/19/2012,7/12/2015,Yantar 35,Russia,UBH18,9261504,660,58.2,77359,CCAMLR,,Patagonian Toothfish,Dissostichus spp,Bottom longline
+224623000,Longlines (not specified),1/11/2012,2/20/2015,Tronio,Spain,ECJF,9361603,1058,55,75760,CCAMLR,reflagged to Falklands callsign ZDLS2 mmsi 740382000,Patagonian Toothfish,Dissostichus spp,Spanish longline
+272208000,Other trawls (not specified),1/27/2012,7/10/2015,More Sodruzhestva,Ukraine,UYDV,8724315,6394,103.1,77419,CCAMLR,,Krill,Euphausia superba,Conventional pelagic (beam) trawl
+272364000,Longlines (not specified),1/1/2012,7/12/2015,Simeiz,Ukraine,URBX,9247912,871,55.46,77417,CCAMLR,,Patagonian Toothfish,Dissostichus spp,Spanish bottom longline
+665111119,Longlines (not specified),1/13/2012,7/12/2015,Argos Froyanes,United Kingdom,ZHHL,9249398,1352,52.55,75762,CCAMLR,flagged to St. Helena (UK territory),Patagonian Toothfish,Dissostichus spp,Bottom autoline
+665111117,Longlines (not specified),1/11/2012,7/12/2015,Argos Georgia,United Kingdom,ZHHJ,9171319,897,46.58,75763,CCAMLR,flagged to St. Helena (UK territory),Patagonian Toothfish,Dissostichus spp,Bottom autoline
+740372000,Other trawls (not specified),1/5/2012,7/12/2015,New Polar,United Kingdom,ZDLF2,8704779,1794,74.5,75764,CCAMLR,flagged to Falklands (UK territory),Mackerel Icefish,Champsocephalus gunnari,Stern trawl
+740382000,Longlines (not specified),4/13/2015,7/12/2015,Tronio,United Kingdom,ZDLS2,9361603,1058,55,75760,CCAMLR,"previously Spanish flagged, only appear with this mmsi in recent ShipView AIS",Patagonian Toothfish,Dissostichus eleginoides,Spanish longline
+770576321,Longlines (not specified),6/10/2014,7/12/2015,Rambla,Uruguay,CXSB,9024621,852,50,84349,CCAMLR,,Patagonian Toothfish,Dissostichus eleginoides,Spanish bottom longline
