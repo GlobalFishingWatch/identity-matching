@@ -9,7 +9,7 @@ Important steps here are how we normalize the names, and the order of the values
 '''
 
 
-
+    
 
 def makequery(t1,t2):
     extra = ''
@@ -26,6 +26,8 @@ def makequery(t1,t2):
 	     group by Attribute1_Type, Attribute1_Value, Attribute2_Type, Attribute2_Value, month, year'''
     return query
 
+
+# this script needs to be expanded to include more fields and how we will normalize them
 def normalize(t):
     if t == 'shipename':
     	return "REGEXP_REPLACE(shipname, '[^\\w]', '') "
